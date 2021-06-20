@@ -1,15 +1,15 @@
 	Typigon Copyright (C) 2021 Kogepan25629
 
-	libjpeg　Copyright (C) 1991-2013, Thomas G. Lane, Guido Vollbeding.
+	libjpegﾂ　Copyright (C) 1991-2013, Thomas G. Lane, Guido Vollbeding.
 	this software is based in part on the work of the Independent JPEG Group
 
 
-	libpng　Copyright (C) 2004, 2006-2012 Glenn Randers-Pehrson.
-	zlib　Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler.
+	libpngﾂ　Copyright (C) 2004, 2006-2012 Glenn Randers-Pehrson.
+	zlibﾂ　Copyright (C) 1995-2012 Jean-loup Gailly and Mark Adler.
 
 
-	libtiff　Copyright (c) 1988-1997 Sam Leffler
-	libtiff　Copyright (c) 1991-1997 Silicon Graphics, Inc.
+	libtiffﾂ　Copyright (c) 1988-1997 Sam Leffler
+	libtiffﾂ　Copyright (c) 1991-1997 Silicon Graphics, Inc.
 
 	Permission to use, copy, modify, distribute, and sell this software and
 	its documentation for any purpose is hereby granted without fee, provided
@@ -31,7 +31,7 @@
 	OF THIS SOFTWARE.
 
 
-	libogg　Copyright (C) 2002-2009 Xiph.org Foundation
+	liboggﾂ　Copyright (C) 2002-2009 Xiph.org Foundation
 
 	Redistribution and use in source and binary forms, with or without
 	modification, are permitted provided that the following conditions
@@ -157,4 +157,4 @@
 	THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-	Bullet　Copyright (c) 2003-2006 Erwin Coumans.
+	Bulletﾂ　Copyright (c) 2003-2006 Erwin Coumans.
