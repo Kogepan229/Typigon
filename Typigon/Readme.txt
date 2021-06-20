@@ -1,11 +1,11 @@
-Typigon�̓^�C�s���O���K�p�\�t�g�ł��B
-�p�P����̓��[�h�A���{��̃��[�}�����[�h������܂��B
+Typigonはタイピング練習用ソフトです。
+英単語入力モード、日本語のローマ字モードがあります。
 
-���j���[��ʂ̑���
-�uW�v�uS�v�u���v�u���v�L�[�ŃJ�[�\���ړ�
-�uEnter�v�uSpace�v�L�[�Ō���
+メニュー画面の操作
+「W」「S」「↑」「↓」キーでカーソル移動
+「Enter」「Space」キーで決定
 
-���s�t�@�C���Ɠ����f�B���N�g���ɂ���uTypeString�v�t�H���_��
-�uEN.txt�v���p�P����̓��[�h�̓��e
-�uRoma.txt�v�����{��̃��[�}�����[�h�̓��e
-�ɂȂ��Ă��܂��B
+実行ファイルと同じディレクトリにある「TypeString」フォルダの
+「EN.txt」が英単語入力モードの内容
+「Roma.txt」が日本語のローマ字モードの内容
+となっていて、編集することで自由に文字列を追加、削除ができます。
