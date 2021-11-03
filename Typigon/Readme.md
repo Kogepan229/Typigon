@@ -13,5 +13,5 @@ Typigonはタイピング練習用ソフトです。
 「Enter」「Space」キーで決定
 
 ## コンパイル
-ソースコードがらコンパイルする場合はVisualStidioを使用し、DXライブラリ(Ver3.22c)をinclude、リンクする必要があります。  
+ソースコードからコンパイルする場合はVisualStidioを使用し、DXライブラリ(Ver3.22c)をinclude、リンクする必要があります。  
 [Dxライブラリ公式ページ](https://dxlib.xsrv.jp/)
